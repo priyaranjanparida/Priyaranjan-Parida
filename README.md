@@ -7,7 +7,9 @@
 ## 🔧 What I'm Working On
 - Building LLM-based applications
 - Developing ML platforms to make better business decisions
-- Exploring AI use cases in fraud prevention
+- Delivered AI use cases in fraud prevention
+- Delivered AI powered chatbot to improve customer satisfaction
+- Delivered ML powered lending platform 
 - Experimenting with APIs (OpenAI, Gemini)
 
 ## 📌 Featured Projects
