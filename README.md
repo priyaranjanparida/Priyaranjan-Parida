@@ -1,6 +1,7 @@
 # Hi, I'm Ranjan 👋
 
 🚀 AI Product Manager with 12+ years of experience in Digital Banking, ML applications, and digital transformation space
+
 💡 Currently exploring LLMs, GenAI, and AI-powered products  
 
 ## 🔧 What I'm Working On
